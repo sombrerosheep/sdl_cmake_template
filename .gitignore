@@ -1,0 +1,13 @@
+# emacs tmp/lock
+*~
+\#*\#
+.\#*
+
+# vscode temp
+.vscode/
+
+# CMake output
+build/
+
+# visual studio output
+.vs/
